@@ -1,0 +1,44 @@
+body{
+    
+    margin-left: 10%;
+    margin-right: 15%;
+    font-family: 'Lato', 'Inconsolata', 'Belgrano';
+    background-image: url('../img/scotland1.jpg');
+    background-position: contain;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.intromain{
+    font-size: 30px;
+    color: rgb(109, 102, 102);
+    margin-top: 2% 
+}
+.postcardbody{
+    font-size: 20px;
+    color:rgb(109, 102, 102);
+    margin-top: 2% 
+}
+em{
+    color: red;
+    font-size: 20px;
+}
+.intromain2{
+    font-size: 30px;
+    color: white;
+    margin-top: 2% 
+}
+.postcardbody2{
+    font-size: 20px;
+    color:white;
+    margin-top: 2% 
+}
+a:link,a:visited{
+    background-color: beige;
+    padding: 7px 20px;
+    color: darkgreen;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 0 none black;
+}
+
